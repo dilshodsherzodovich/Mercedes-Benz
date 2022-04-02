@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "img": "./img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "Mercedes-Benz C-class",
+      "descr": "In the 2021 Mercedes C-class cars reach the highest point",
+      "price": 199.0
+    },
+    {
+      "img": "./img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "Mercedes-Benz C-class",
+      "descr": "In the 2021 Mercedes C-class cars reach the highest point",
+      "price": 199.0
+    },
+    {
+      "img": "./img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "Mercedes-Benz C-class",
+      "descr": "In the 2021 Mercedes C-class cars reach the highest point",
+      "price": 199.0
+    }
+  ],
+  "request": []
+}

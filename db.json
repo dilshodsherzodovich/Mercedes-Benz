@@ -1,0 +1,429 @@
+{
+  "menu": [
+    {
+      "img": "./img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "Mercedes-Benz C-class",
+      "descr": "In the 2021 Mercedes C-class cars reach the highest point",
+      "price": 199
+    },
+    {
+      "img": "./img/tabs/2.jpg",
+      "altimg": "vegy",
+      "title": "Mercedes-Benz C-class",
+      "descr": "In the 2021 Mercedes C-class cars reach the highest point",
+      "price": 199
+    },
+    {
+      "img": "./img/tabs/3.jpg",
+      "altimg": "vegy",
+      "title": "Mercedes-Benz C-class",
+      "descr": "In the 2021 Mercedes C-class cars reach the highest point",
+      "price": 199
+    }
+  ],
+  "request": [
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 1
+    },
+    {
+      "name": "Dilshod",
+      "phone": "2631",
+      "id": 2
+    },
+    {
+      "name": "Dilshod",
+      "phone": "2631",
+      "id": 3
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 4
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 5
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 6
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 7
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 8
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 9
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 10
+    },
+    {
+      "name": "Dilsh",
+      "phone": "+998901234567",
+      "id": 11
+    },
+    {
+      "headers": {
+        "Content-type": "application/jso"
+      },
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"+998901234567\"}",
+      "id": 12
+    },
+    {
+      "name": "Dilsh",
+      "phone": "+998901234567",
+      "id": 13
+    },
+    {
+      "name": "Dilsh",
+      "phone": "5566565",
+      "id": 14
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"+998901234567\"}",
+      "id": 15
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"5566565\"}",
+      "id": 16
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"+998901234567\"}",
+      "id": 17
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"+998901234567\"}",
+      "id": 18
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"5566565\"}",
+      "id": 19
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"ghg\"}",
+      "id": 20
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"dwdwewed\",\"phone\":\"5566565\"}",
+      "id": 21
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilshod\",\"phone\":\"Murodov\"}",
+      "id": 22
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"+998901234567\"}",
+      "id": 23
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"5566565\"}",
+      "id": 24
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"Murodov\"}",
+      "id": 25
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilshod\",\"phone\":\"5566565\"}",
+      "id": 26
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "{\"name\":\"Dilshod\",\"phone\":\"5566565\"}",
+      "id": 27
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "id": 28
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "Salom",
+      "id": 29
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": "\"{\\\"name\\\":\\\"dwdwewed\\\",\\\"phone\\\":\\\"ghg\\\"}\"",
+      "id": 30
+    },
+    {
+      "headers": {
+        "Content-type": "application/json"
+      },
+      "body": {
+        "name": "Dilsh",
+        "phone": "ghg"
+      },
+      "id": 31
+    },
+    {
+      "body": {
+        "name": "Dilshod",
+        "phone": "Murodov"
+      },
+      "id": 32
+    },
+    {
+      "name": "Dilsh",
+      "phone": "ghg",
+      "id": 33
+    },
+    {
+      "name": "Dilshod",
+      "phone": "Murodov",
+      "id": 34
+    },
+    {
+      "name": "dwdwewed",
+      "phone": "2631",
+      "id": 35
+    },
+    {
+      "name": "Dilsh",
+      "phone": "+998901234567",
+      "id": 36
+    },
+    {
+      "name": "Dilshod",
+      "phone": "Murodov",
+      "id": 37
+    },
+    {
+      "body": {
+        "name": "dwdwewed",
+        "phone": "ghg"
+      },
+      "id": 38
+    },
+    {
+      "body": {
+        "name": "Dilsh",
+        "phone": "2631"
+      },
+      "id": 39
+    },
+    {
+      "body": "{\"name\":\"Dilsh\",\"phone\":\"2631\"}",
+      "id": 40
+    },
+    {
+      "body": "{\"name\":\"Dilshod\",\"phone\":\"+998901234567\"}",
+      "id": 41
+    },
+    {
+      "body": {
+        "name": "Dilsh",
+        "phone": "2631"
+      },
+      "id": 42
+    },
+    {
+      "body": "{\"name\":\"Dilshod\",\"phone\":\"+998901234567\"}",
+      "id": 43
+    },
+    {
+      "body": "{\"name\":\"Dilshod\",\"phone\":\"+998901234567\"}",
+      "id": 44
+    },
+    {
+      "body": "{\"name\":\"Dilshod\",\"phone\":\"Murodov\"}",
+      "id": 45
+    },
+    {
+      "body": "{\"name\":\"Dilshod\",\"phone\":\"+998901234567\"}",
+      "id": 46
+    },
+    {
+      "body": {
+        "name": "Dilshod",
+        "phone": "+998901234567"
+      },
+      "id": 47
+    },
+    {
+      "name": "Dilshod",
+      "phone": "5566565",
+      "id": 48
+    },
+    {
+      "name": "Dilshod`",
+      "phone": "+998901234567",
+      "id": 49
+    },
+    {
+      "name": "Dilsh",
+      "phone": "+998901234567",
+      "id": 50
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 51
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 52
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998997163926",
+      "id": 53
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 54
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998997163926",
+      "id": 55
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 56
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998997133926",
+      "id": 57
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 58
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 59
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+965465",
+      "id": 60
+    },
+    {
+      "name": "Dilshod",
+      "phone": "Murodov",
+      "id": 61
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 62
+    },
+    {
+      "name": "Dilshod",
+      "phone": "ghg",
+      "id": 63
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998242546",
+      "id": 64
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998901234567",
+      "id": 65
+    },
+    {
+      "name": "Dilshod",
+      "phone": "5566565",
+      "id": 66
+    },
+    {
+      "name": "Dilshod",
+      "phone": "ghg",
+      "id": 67
+    },
+    {
+      "name": "Dilshod",
+      "phone": "Murodov",
+      "id": 68
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+998997163926",
+      "id": 69
+    },
+    {
+      "name": "Dilshod",
+      "phone": "+89561",
+      "id": 70
+    },
+    {
+      "name": "Dilshod",
+      "phone": "5566565",
+      "id": 71
+    },
+    {
+      "name": "Dilshod",
+      "phone": "ghg",
+      "id": 72
+    }
+  ]
+}
